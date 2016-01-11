@@ -1,5 +1,5 @@
 {
-  "name": "SimpleChannels",
+  "name": "UnReadChannels",
   "author": "Joe Brumaghim",
   "description": "A Plugin to show unread message count",
   "main": "unread.js"
